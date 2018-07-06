@@ -1,2 +1,2 @@
-# mac
+# mac project
 Test project
