@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/macentosh/mac/issues"
   },
-  "homepage": "https://github.com/macentosh/mac#readme"
+  "homepage": "https://github.com/macentosh/mac#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
